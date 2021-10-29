@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Samsung Galaxy M12",
+        "children": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "variation": [
+            "4GB RAM & 64GB Storage",
+            "6GB RAM & 128GB Storage"
+        ],
+        "details": {
+            "App\\Models\\Variation": {
+                "1": [
+                    "48MP+5MP+2MP+2MP Quad camera setup- True 48MP (F 2.0) main camera + 5MP (F2.2) Ultra wide camera+ 2MP (F2.4) depth camera + 2MP (2.4) Macro Camera| 8MP (F2.2) front camera",
+                    "6000mAH lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+                    "Android 11, v11.0 operating system,One UI 3.1, with 8nm Power Efficient Exynos850 (Octa Core 2.0GH",
+                    "16.55 centimeters (6.5-inch) HD+ TFT LCD - infinity v-cut display,90Hz screen refresh rate, HD+ resolution with 720 x 1600 pixels resolution, 269 PPI with 16M color",
+                    "Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 1TB| Dual SIM (nano+nano) dual-standby (4G+4G)"
+                ],
+                "2": [
+                    "48MP+5MP+2MP+2MP Quad camera setup- True 48MP (F 2.0) main camera + 5MP (F2.2) Ultra wide camera+ 2MP (F2.4) depth camera + 2MP (2.4) Macro Camera| 8MP (F2.2) front came",
+                    "Memory, Storage & SIM: 6GB RAM | 128GB internal memory expandable up to 1TB| Dual SIM (nano+nano) dual-standby (4G+4G)",
+                    "6000mAH lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+                    "Android 11, v11.0 operating system,One UI 3.1, with 8nm Power Efficient Exynos850 (Octa Core 2.0GH",
+                    "16.55 centimeters (6.5-inch) HD+ TFT LCD - infinity v-cut display,90Hz screen refresh rate, HD+ resolution with 720 x 1600 pixels resolution, 269 PPI with 16M color"
+                ]
+            }
+        },
+        "images": {
+            "App\\Models\\Child": {
+                "1": [
+                    "m2_black_1.jpg",
+                    "m2_black_2.jpg",
+                    "m2_black_3.jpg"
+                ],
+                "2": [
+                    "m2_blue_1.jpg",
+                    "m2_blue_2.jpg",
+                    "m2_blue_3.jpg"
+                ],
+                "3": [
+                    "m2_white_1.jpg",
+                    "m2_white_2.jpg",
+                    "m2_white_3.jpg"
+                ]
+            }
+        },
+        "childVariations": {
+            "1": [
+                1,
+                2
+            ],
+            "2": [
+                1,
+                2
+            ],
+            "3": [
+                1,
+                2
+            ]
+        }
+    },
+    {
+        "name": "Xbox One Series S",
+        "images": {
+            "App\\Models\\Product": {
+                "2": [
+                    "xbox_1.jpg",
+                    "xbox_2.jpg",
+                    "xbox_3.jpg",
+                    "xbox_4.jpg"
+                ]
+            }
+        },
+        "details": {
+            "App\\Models\\Product": {
+                "2": [
+                    "Go all-digital and enjoy disc-free, next-gen gaming with the smallest Xbox console ever made",
+                    "Xbox game Pass ultimate includes over 100 high-quality games, online multiplayer, and an EA play membership for one low monthly price (membership sold separately)",
+                    "Play thousands of digital games from four generations of Xbox with backward compatibility, including optimized titles at launch",
+                    "Introducing the Xbox series S, the smallest, sleekest Xbox console ever. Experience the speed and performance of a next-gen all-digital console at an accessible price point",
+                    "Experience next-gen speed and performance with the Xbox velocity architecture, powered by a custom SSD and integrated software"
+                ]
+            }
+        },
+        "singleProduct":{
+            "price":"34,990.00"
+        }      
+    }
+]
